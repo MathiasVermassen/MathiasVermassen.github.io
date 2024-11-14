@@ -1,0 +1,20 @@
+p {
+    color: purple;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gold;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.rood {
+    background-color: red;
+}
+
+#inspringing {
+    margin-left: 40px;
+}
